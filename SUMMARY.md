@@ -1,6 +1,7 @@
 # Summary
 
-* [Catalogo](README.md)
-    * [Percheros](percheros.md)
-    * [Cajas de te](cajasDeTe.md)
 
+* [Catalogo](README.md)
+    * [Cajas de te](cajasDeTe.md)
+    * [Percheros](percheros.md)
+    

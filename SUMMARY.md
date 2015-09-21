@@ -1,7 +1,7 @@
 # Summary
 
 * [Catalogo](README.md)
-* [CAJAS DE TE](cajas_de_te.md)
+* [Cajas de te](CajasDeTe/README.md)
 * VARIOS
 * ALHAJEROS
 * CAJAS CON FOTOS
